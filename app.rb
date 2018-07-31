@@ -13,7 +13,7 @@ end
     "My hometown is Rosemount"
   end 
   
-  get '/song' do 
+  get '/favorite-song' do 
     "My favorite song is City of Stars"
   end 
 end 
